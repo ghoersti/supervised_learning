@@ -8,3 +8,15 @@ Assuming python 3.9 and conda are installed create the env using.
 Open jupyter
 `jupyter notebook` execute code as needed
 
+# Template used for Latek
+https://www.overleaf.com/project/5ebe55ec08e09b0001676b6a
+
+#Code used to aid in discovery
+
+
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html
+https://medium.com/datadriveninvestor/understanding-adaboost-and-scikit-learns-algorithm-c8d8af5ace10
+https://www.kaggle.com/alexandrago/income-prediction-xgbclassifier-auc-0-926
+https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
+
