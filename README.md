@@ -6,5 +6,5 @@ Assuming python 3.9 and conda are installed create the env using.
 `conda env create -f ML.yml`
 
 Open jupyter
-`jupyter notebook`
+`jupyter notebook` execute code as needed
 
