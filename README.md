@@ -11,13 +11,14 @@ Open jupyter
 # Template used for Latek
 https://www.overleaf.com/project/5ebe55ec08e09b0001676b6a
 
-#make a directory 
+# make a directory 
 `mkdir data`
 download both of these files into data
 https://www.kaggle.com/uciml/adult-census-income
 https://www.kaggle.com/uciml/indian-liver-patient-records
 
-#the parent directory path inside the notebooks will need to be changed to reflect absolute path to the `data` directory
+# Note
+The parent directory path inside the notebooks will need to be changed to reflect absolute path to the `data` directory
 
 #Code used to aid in discovery
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html
