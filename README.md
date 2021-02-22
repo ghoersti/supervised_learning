@@ -11,7 +11,7 @@ Open jupyter
 # Template used for Latek
 https://www.overleaf.com/project/5ebe55ec08e09b0001676b6a
 
-# make a directory 
+# Make a directory 
 `mkdir data`
 download both of these files into data
 
